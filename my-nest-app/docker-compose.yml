@@ -1,0 +1,6 @@
+version: '3'
+services:
+  my-nest-app:
+    image: dhay21/my-nest-app
+    ports:
+      - "3000:3000"
